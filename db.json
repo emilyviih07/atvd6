@@ -1,0 +1,20 @@
+{
+    "messages": [
+      {
+        "id": "1",
+        "name": "Lucas Pereira",
+        "message": "Vamos marcar aquele café?",
+        "time": "Agora",
+        "avatar": "https://randomuser.me/api/portraits/men/10.jpg",
+        "unread": 2
+      },
+      {
+        "id": "2",
+        "name": "Ana Souza",
+        "message": "Enviei o relatório!",
+        "time": "10m atrás",
+        "avatar": "https://randomuser.me/api/portraits/women/11.jpg",
+        "unread": 1
+      }
+    ]
+  }
